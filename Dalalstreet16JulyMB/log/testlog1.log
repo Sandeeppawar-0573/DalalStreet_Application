@@ -1,0 +1,39 @@
+2022-12-09 10:02:43,355 [main] INFO DalaStreet Automation Framework - Framework execution started
+2022-12-09 10:02:49,836 [main] INFO DalaStreet Automation Framework - Browser launched, maximized, provided waits
+2022-12-09 10:02:49,864 [main] INFO DalaStreet Automation Framework - Object Creation
+2022-12-09 10:02:53,299 [main] INFO DalaStreet Automation Framework - Login into application
+2022-12-09 10:02:53,313 [main] INFO DalaStreet Automation Framework - Framework execution completed
+2022-12-09 10:03:39,100 [main] INFO DalaStreet Automation Framework - Framework execution started
+2022-12-09 10:03:44,572 [main] INFO DalaStreet Automation Framework - Browser launched, maximized, provided waits
+2022-12-09 10:03:44,632 [main] INFO DalaStreet Automation Framework - Object Creation
+2022-12-09 10:03:48,290 [main] INFO DalaStreet Automation Framework - Login into application
+2022-12-09 10:03:48,300 [main] INFO DalaStreet Automation Framework - Test Execution Started
+2022-12-09 10:03:48,316 [main] INFO DalaStreet Automation Framework - Test Execution failed
+2022-12-09 10:03:48,535 [main] INFO DalaStreet Automation Framework - Screenshot taken
+2022-12-09 10:03:54,305 [main] INFO DalaStreet Automation Framework - Browser launched, maximized, provided waits
+2022-12-09 10:03:54,307 [main] INFO DalaStreet Automation Framework - Object Creation
+2022-12-09 10:03:58,347 [main] INFO DalaStreet Automation Framework - Login into application
+2022-12-09 10:03:58,351 [main] INFO DalaStreet Automation Framework - Test Execution Started
+2022-12-09 10:04:05,580 [main] INFO DalaStreet Automation Framework - Test Execution completed
+2022-12-09 10:04:19,897 [main] INFO DalaStreet Automation Framework - Browser launched, maximized, provided waits
+2022-12-09 10:04:19,897 [main] INFO DalaStreet Automation Framework - Object Creation
+2022-12-09 10:04:23,363 [main] INFO DalaStreet Automation Framework - Login into application
+2022-12-09 10:04:23,365 [main] INFO DalaStreet Automation Framework - Test Execution Started
+2022-12-09 10:04:30,174 [main] INFO DalaStreet Automation Framework - Test Execution completed
+2022-12-09 10:04:55,313 [main] INFO DalaStreet Automation Framework - Browser launched, maximized, provided waits
+2022-12-09 10:04:55,314 [main] INFO DalaStreet Automation Framework - Object Creation
+2022-12-09 10:04:58,741 [main] INFO DalaStreet Automation Framework - Login into application
+2022-12-09 10:04:58,745 [main] INFO DalaStreet Automation Framework - Test Execution Started
+2022-12-09 10:05:18,891 [main] INFO DalaStreet Automation Framework - Test Execution failed
+2022-12-09 10:05:19,089 [main] INFO DalaStreet Automation Framework - Screenshot taken
+2022-12-09 10:05:34,162 [main] INFO DalaStreet Automation Framework - Browser launched, maximized, provided waits
+2022-12-09 10:05:34,165 [main] INFO DalaStreet Automation Framework - Object Creation
+2022-12-09 10:05:37,652 [main] INFO DalaStreet Automation Framework - Login into application
+2022-12-09 10:05:37,656 [main] INFO DalaStreet Automation Framework - Test Execution Started
+2022-12-09 10:05:44,683 [main] INFO DalaStreet Automation Framework - Test Execution completed
+2022-12-09 10:06:12,095 [main] INFO DalaStreet Automation Framework - Browser launched, maximized, provided waits
+2022-12-09 10:06:12,096 [main] INFO DalaStreet Automation Framework - Object Creation
+2022-12-09 10:06:15,636 [main] INFO DalaStreet Automation Framework - Login into application
+2022-12-09 10:06:15,638 [main] INFO DalaStreet Automation Framework - Test Execution Started
+2022-12-09 10:06:27,582 [main] INFO DalaStreet Automation Framework - Test Execution completed
+2022-12-09 10:06:27,584 [main] INFO DalaStreet Automation Framework - Framework execution completed
